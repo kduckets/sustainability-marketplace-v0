@@ -5,10 +5,9 @@ import type React from "react" // Import React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "SustainConnect - Connect with Top Sustainability Service Providers",
+  title: "SustainExchange - Connect with Top Sustainability Service Providers",
   description:
-    "Empowering companies and institutions to achieve their sustainability goals by connecting them with the best service providers.",
-    generator: 'v0.dev'
+    "Empowering companies and institutions to achieve their sustainability goals by connecting them with the best service providers."
 }
 
 export default function RootLayout({
