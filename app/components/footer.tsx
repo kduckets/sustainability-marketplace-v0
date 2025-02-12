@@ -76,7 +76,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 text-center text-sm text-gray-400">
-          © {new Date().getFullYear()} SustainConnect. All rights reserved.
+          © {new Date().getFullYear()} SustainExchange. All rights reserved.
         </div>
       </div>
     </footer>
