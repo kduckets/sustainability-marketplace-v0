@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">SustainConnect</h3>
+            <h3 className="text-lg font-semibold mb-4">SustainExchange</h3>
             <p className="text-sm text-gray-400">Connecting sustainability seekers with top-tier service providers.</p>
           </div>
           <div>
